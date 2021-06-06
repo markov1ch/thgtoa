@@ -1,0 +1,2 @@
+26bfbbd2db7e5df3fa5e3cbb8b0419994c26851722d0ad3f38c539c0f2d6e470  guide.pdf
+dd73d7153b93cc570bb4ce209560df9fec41983deeec397f3e92ec9fc3679e9e  guide-dark.pdf
