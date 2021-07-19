@@ -42,8 +42,9 @@ Donations log (UTC date/time):
 - 2021-06-27 18:39: 0.05 XMR
 - 2021-07-12 07:24: 0.02 XMR
 - 2021-07-16 14:31: 0.1 mBTC
+- 2021-07-20 21:01: 0.058981 XMR
 
-Total Monero donations received: **1.710433355105 XMR**
+Total Monero donations received: **1.769414 XMR**
 Total Bitcoin donations received: **1.42765 mBTC**
 
 Spendings log (UTC date):
@@ -58,7 +59,7 @@ Spendings log (UTC date):
 - 2021-07-13: 0.067261698061 XMR for a Tor Exit Node (01) Hosting (3 months)
 - 2021-07-15: 0.151959953047 XMR for a Tor Exit Node (02) Hosting (6 months)
 
-Total Monero remaining: **0.005288833997 XMR**
+Total Monero remaining: **0.064269822997 XMR**
 Total Bitcoin remaining: **0.1 mBTC**
 
 [1]: media/monero.jpg
